@@ -2,7 +2,7 @@
 # Prospective PhD Candidate
 
 #### I am a PhD candidate with a strong interest in pursuing a career in cancer research. I am passionate about conducting research in prestigious, interdisciplinary, and international scientific communities. My goal is to contribute to the development of potential therapeutic and diagnostic approaches in cancer, leveraging my expertise in both wet and dry lab techniques.
-#### Python, R, Linux,  Omics, Basic and Advanced Molecular Techniques, Imaging Techniques 
+
 
 ## Education
 - M.Sc., Human Genetics	| Tehran University of Medical Sciences(_May 2023_)	 			        		
@@ -30,10 +30,18 @@
 
 - Skilled in R, Python, Linux, Machine Learning, and related repositories, libraries and packages
 - Experienced in NGS (WES, Analysis of 10 real-world clinical cases), Microarray, Bulk RNA
-- Single Cell seq Analyses, Spatial Transcriptomics, Methylation, sc/ATAC, ChIP, CITE Seq
+- Single Cell seq Analyses, Spatial Transcriptomics, Methylation, sc/ATAC, Pathway Anlaysis
 - Metabolomics, Proteomics and Lipidomics
 - Biostatistics, SPSS, GraphPad Prism
 - Primer Design, Drug Design, Cystoscape, STRING, Bioinformatics databases and online tools 
+
+# Lab Skills
+ 
+-	PCR (ARMS, RFLP), Gel Electrophoresis, DNA Extraction, Buffers and Solutions, Nucleic acid quantification, Genotyping
+-	Cell culture, Western Blot
+-	Ultra Centrifuge, Rotary Evaporator, Fluorometer, Niosome Synthesis
+-	Atomic Force Microscopy, Fluorescent Microscopy 
+
 
 ## Projects
 [Kaggle](https://www.kaggle.com/mohammadyaghmouri)
