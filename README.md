@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0d1308d5-b9e2-46ab-9ad1-684950dc67f3)# Mohammad-Yaghmouri-PhD-Candidate-
 
 # Prospective PhD Candidate
 
