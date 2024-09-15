@@ -92,9 +92,9 @@ Using edgeR Packge to Analyze Bisulfite Seq Data in R
 
 # Courses
 
-• Cancer Biology Specialization
+• Cancer Biology Specialization (Coursera)
 
-• Researcher's Guide to Omic Data Specialization
+• Researcher's Guide to Omic Data Specialization (Coursera)
 
 •	Machine Learning for Bioinformatics (Sharif University) 
 
@@ -126,25 +126,20 @@ Using edgeR Packge to Analyze Bisulfite Seq Data in R
   
 - Yaghmouri M, Izadi P. Role of the Neanderthal Genome in Genetic Susceptibility to COVID-19: 3p21. 31 Locus in the Spotlight. Biochemical Genetics. 2024 Feb 12:1-25. 
   
-- Letafati A., Salahi O., Yaghmouri M., Vasheghani A., et al. The Role of Pyroptosis in Respiratory Virus Infections (in progress)
-
 
 #### Congress (2024)
 
 - Afsharpour,M., Yaghmouri, M., Tarahomi, M.,  Maldar, M., The Impact of DNA Methylation Changes in DNA Repair Genes on the Risk of Colorectal Cancer in Patients with Lynch Syndrome Compared to a Control 
-  Population. The International Congress on Cancer Genomics 2024 
-- Yaghmouri, M., Exploring the Relationship Between Alzheimer's Disease and the Metabolome: Insights from mRNA Expression Analysis. The 8th International Congress on ‌Biomedicine 2024 
+  Population. The International Congress on Cancer Genomics 2024
+  
 - Yaghmouri, M., Integration of Bioinformatics and Computational Biology in Deciphering Molecular Mechanisms of Atherosclerosis: A Novel Approach. The 10th International Congress on Biology 
 
 
 #### BOOKS (in Edition)  
-
-- Letafati A., Yaghmouri M., Haidari M., Masumi Z., et al. Epigenetic Clocks and Aging Biomarkers: From DNA Methylation to Biological Age
   
 - Letafati A., Salehi A., Yaghmouri M., Askari MR., et al. NK Cell Exhaustion in Cancer: From Activation to Exhaustion
   
 -	Letafati A., Yaghmouri M., Askari MR., et al. Interplay Between Tumor Suppressors Pathways & Oncogenic Signaling in Cancer
-  
--	Letafati A., Nik S., Rahimi F., Yaghmouri M., et al.  Unveiling Amyotrophic Lateral Sclerosis: Understanding Neurological and Therapeutic Avenues                
+                 
 
 
