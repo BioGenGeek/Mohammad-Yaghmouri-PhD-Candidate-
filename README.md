@@ -92,6 +92,8 @@ Using edgeR Packge to Analyze Bisulfite Seq Data in R
 
 # Courses
 
+• Epigenetic Control of Gene Expression
+
 • Cancer Biology Specialization (Coursera)
 
 • Researcher's Guide to Omic Data Specialization (Coursera)
